@@ -7,6 +7,13 @@
     font-family: "Roboto", sans-serif;
 }
 
+html, body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 body {
     background-color: #252243;
     color: #D7E0FF;
